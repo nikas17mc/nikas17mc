@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nikas and I'm a Junior Developer, from Germany! </h2>
+<h2 align="left">Hi 👋! My name is にこらい and I'm a Junior Developer, from Germany! ✨</h2>
 
 ###
 
@@ -9,6 +9,7 @@
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/7onfrb.jpg"  />
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
@@ -25,6 +26,25 @@
 </div>
 
 ###
+<div align="left">
+  <p>I would like to introduce myself to you:</p>
+  <ul>
+    <li>I am a beginner in JS and W-Batsh.</li>
+    <li>I'm also going to an information technology vocational college,<br>
+    where I'm learning about new types and uses of programming and building.</li>
+  </ul>
+  <p>I also learn other programming languages:</p>
+</div>
+
+1. Python `print("Hello World")`
+1. PHP `<?php echo "Hello World"; ?>`
+1. Shell `echo 'Hello World`
+
+
+###
+
+>[!NOTE]
+> You can find me on these social media:
 
 <div align="left">
   <a href="https://www.instagram.com/deijingx/" target="_blank">
@@ -44,9 +64,5 @@
 ###
 
 <br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikas17mc/nikas17mc/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikas17mc/nikas17mc/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/nikas17mc/nikas17mc/output/github-snake.svg" alt="github-snake"/>
-</picture>
+
 <img src="https://raw.githubusercontent.com/nikas17mc/nikas17mc/output/github-snake.svg" alt="github-snake"/>
