@@ -49,3 +49,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikas17mc/nikas17mc/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/nikas17mc/nikas17mc/output/github-snake.svg" alt="github-snake"/>
 </picture>
+<img src="https://raw.githubusercontent.com/nikas17mc/nikas17mc/output/github-snake.svg" alt="github-snake"/>
