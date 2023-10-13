@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is にこらい and I'm a Junior Developer, from Germany! ✨</h2>
+<h2 align="center">Hi 👋! My name is にこらい and I'm a Junior Developer, from Germany! ✨</h2>
 
 ###
 
@@ -9,8 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/7onfrb.jpg"  />
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <img align="right" height="150" src="https://i.imgflip.com/7onfrb.jpg"  />
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -40,7 +40,16 @@
 1. PHP `<?php echo "Hello World"; ?>`
 1. Shell `echo 'Hello World`
 
-
+<p> :dependabot: Here are the quick links to my most visited and edited projects:</p>
+  <ul>
+    <li align="center"><a href="https://github.com/nikas17mc/win-get_install_script">Win-Get Install Script</a></li>
+    <li align="center"><a href="https://github.com/nikas17mc/nikas17mc.github.io">My Website</a>
+      <ul>  
+        <li>To visit it, here is the <a href="https://nikas17mc.github.io">link</a></li>
+      </ul>
+    </li>
+  </ul>
+  
 ###
 
 >[!NOTE]
@@ -57,8 +66,6 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
 
 <br clear="both">
 
