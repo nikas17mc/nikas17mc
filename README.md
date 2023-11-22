@@ -22,14 +22,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" style="background-color:##ada9a9;" />
+  <img width="34" style="margin:10px;background-color:##ada9a9;" />
 </div>
 
 ###
 <div align="left">
   <p> :trollface: I would like to introduce myself to you:</p>
   <ul>
-    <li>I am a beginner in JS and W-Batsh.</li>
+    <li>I am a beginner in JS, PHP, python and Bash.</li>
     <li>I'm also going to an information technology vocational college,<br>
     where I'm learning about new types and uses of programming and building.</li>
   </ul>
@@ -39,6 +39,7 @@
 1. Python `print("Hello World")`
 1. PHP `<?php echo "Hello World"; ?>`
 1. Shell `echo 'Hello World`
+1. JavaScript `console.log("Hello World");`
 
 <p> :dependabot: Here are the quick links to my most visited and edited projects:</p>
   <ul>
