@@ -29,7 +29,7 @@
 <div align="left">
   <p> :trollface: I would like to introduce myself to you:</p>
   <ul>
-    <li>I am a beginner in JS, PHP, python and Bash.</li>
+    <li>I am a beginner in JS, PHP, Python and Bash.</li>
     <li>I'm also going to an information technology vocational college,<br>
     where I'm learning about new types and uses of programming and building.</li>
   </ul>
