@@ -31,13 +31,13 @@
 
 ###
 <div align="left">
-  <h4><p> :trollface: I would like to introduce myself to you:</p></h4>
+  <p> :trollface: I would like to introduce myself to you:</p>
   <ul>
     <li>I am a beginner in JS, PHP, Python and Bash.</li>
     <li>I'm also going to an information technology vocational college,<br>
     where I'm learning about new types and uses of programming and building.</li>
   </ul>
-  <h4><p> :shipit: I also learn other programming languages:</p></h4>
+  <p> :shipit: I also learn other programming languages:</p>
 </div>
 
 1. Python `print("Hello World")`
@@ -45,7 +45,7 @@
 1. Shell `echo 'Hello World`
 1. JavaScript `console.log("Hello World");`
 
-<h4><p> :dependabot: Here are the quick links to my most visited and edited projects:</p></h4>
+<p> :dependabot: Here are the quick links to my most visited and edited projects:</p>
   <ul>
     <li align="center"><a href="https://github.com/nikas17mc/win-get_install_script">Win-Get Install Script</a> <img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2Fnikas17mc%2F43788ae8805d2f955eed173d9e1cfed1%2Fraw%2F723f8b4425da7dc8892e7704d1454c63e3d6e89c%2Fendpoint.json">
     </li>
