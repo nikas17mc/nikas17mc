@@ -54,7 +54,7 @@
         <li>To visit it, here is the <a href="https://nikas17mc.github.io">link</a></li>
       </ul>
     </li>
-    <li align="center"><a href="https://github.com/nikas17mc/reise_nach_bangkok">Reise nach Bangkok</a> <img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2Fnikas17mc%2Fbf09ea16f5c50d24d2386cff5b142bdd%2Fraw%2Fca36747749a1541a36f9aa9a8b6cb68425b18b16%2Fendpoint_3.json"></li>
+    <li align="center"><a href="https://github.com/nikas17mc/rnB_msP">rnB_msP</a> <img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2Fnikas17mc%2Fbf09ea16f5c50d24d2386cff5b142bdd%2Fraw%2Fca36747749a1541a36f9aa9a8b6cb68425b18b16%2Fendpoint_3.json"></li>
   </ul>
   
 ###
