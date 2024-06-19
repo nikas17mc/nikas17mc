@@ -37,7 +37,7 @@
     <li>I'm also going to an information technology vocational college,<br>
     where I'm learning about new types and uses of programming and building.</li>
   </ul>
-  :shipit: <p>I also learn other programming languages:</p>
+  :shipit: <p>Things I can already do:</p>
 </div>
 
 1. Python `print("Hello World")`
