@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is ニコライ and I'm a Junior Developer, from Germany! ✨</h2>
+<h2 align="center">Hi 👋! My name is ニコライ and I'm a Junior Developer! ✨</h2>
 
 ###
 
