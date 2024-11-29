@@ -43,7 +43,8 @@
 1. Python `print("Hello World")`
 1. PHP `<?php echo "Hello World"; ?>`
 1. Shell `echo 'Hello World`
-1. JavaScript `console.log("Hello World");`
+1. JavaScript `console.log("Hello World");` <br>
+<sub>I know this is a joke...</sub>
 
 :dependabot: <p>Here are the quick links to my most visited and edited projects:</p>
   <ul>
