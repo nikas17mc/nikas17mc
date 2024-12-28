@@ -25,8 +25,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
 </div>
 
 ###
@@ -40,7 +38,6 @@
   :shipit: <p>Things I can already do:</p>
 </div>
 
-1. Python `print("Hello World")`
 1. PHP `<?php echo "Hello World"; ?>`
 1. Shell `echo 'Hello World`
 1. JavaScript `console.log("Hello World");` <br>
@@ -56,6 +53,7 @@
       </ul>
     </li>
     <li align="center"><a href="https://github.com/nikas17mc/rnB_msP">rnB_msP</a> <img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2Fnikas17mc%2Fbf09ea16f5c50d24d2386cff5b142bdd%2Fraw%2Fca36747749a1541a36f9aa9a8b6cb68425b18b16%2Fendpoint_3.json"></li>
+    <li align="center"><a type="_blank" href="https://github.com/nikas17mc/aniBuu">AniBuu</a> <img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2Fnikas17mc%2Fbd88911df5ae4637d87ae33a14a7e819%2Fraw%2F0ccc29d8e1dc32607e53cd3558dc19c58eb26f00%2Fendpoint_4.json"></li>
   </ul>
   
 ###
