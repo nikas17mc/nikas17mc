@@ -44,24 +44,20 @@
 <sub>I know this is a joke...</sub>
 
 :dependabot: <p>Here are the quick links to my most visited and edited projects:</p>
-  <ul>
-    <li align="center"><a href="https://github.com/nikas17mc/win-get_install_script">Win-Get Install Script</a> <img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2Fnikas17mc%2F43788ae8805d2f955eed173d9e1cfed1%2Fraw%2F723f8b4425da7dc8892e7704d1454c63e3d6e89c%2Fendpoint.json">
-    </li>
-    <li align="center"><a href="https://github.com/nikas17mc/nikas17mc.github.io">My Website</a> <img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2Fnikas17mc%2Fbd55fba080fc092215ef85a2d2ee6a9f%2Fraw%2F4f75a0e00fc448e4ac7edee813e2f3b84cecee5d%2Fendpoint_2.json">
-      <ul>  
-        <li>To visit it, here is the <a href="https://nikas17mc.github.io">link</a></li>
-      </ul>
-    </li>
-    <li align="center"><a href="https://github.com/nikas17mc/rnB_msP">rnB_msP</a> <img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2Fnikas17mc%2Fbf09ea16f5c50d24d2386cff5b142bdd%2Fraw%2Fca36747749a1541a36f9aa9a8b6cb68425b18b16%2Fendpoint_3.json"></li>
-    <li align="center"><a type="_blank" href="https://github.com/nikas17mc/aniBuu">AniBuu</a> <img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2Fnikas17mc%2Fbd88911df5ae4637d87ae33a14a7e819%2Fraw%2F0ccc29d8e1dc32607e53cd3558dc19c58eb26f00%2Fendpoint_4.json"></li>
-  </ul>
-  
-###
+
+| Repository | Version |
+| ---------- | :-----: |
+| [win-get_intall](https://github.com/nikas17mc/win-get_install_script) | ![Static Badge](https://img.shields.io/badge/Version-Alpa_0.0.3-green) |
+| [My First Website](https://github.com/nikas17mc/nikas17mc.github.io) | ![Static Badge](https://img.shields.io/badge/Version-Alpa_0.0.2.2-blue) |
+| [rnB_msP](https://github.com/nikas17mc/rnB_msP) | ![Static Badge](https://img.shields.io/badge/Version-Beta_0.1-orange) |
+| [My New Website](https://github.com/nikas17mc/aniBuu) | ![Static Badge](https://img.shields.io/badge/Version-Beta_0.1-lila) |
+
+### ------------------------------------
 
 >[!NOTE]
 > You can find me on these social media:
 
-> Just kidding, u find me no where! I'm unvisible.
+> Just kidding, u find me no where! I'm unvisible. HEHEHE...!!
 
 <br clear="both">
 
