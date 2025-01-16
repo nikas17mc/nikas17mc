@@ -7,22 +7,18 @@ This README serves as an introduction to my profile, showcasing my skills, techn
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikas17mc&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/7onfrb.jpg"  />
-<img align="right" height="150" src="https://i.imgflip.com/6zr6q4.gif"  />
-
 ## Technologies
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/css/663399" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/php/777BB4" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/express/8A8A8A" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/pug/A86454" />
 </div>
+
 
 ## Introduction
 
@@ -56,22 +52,20 @@ Here are the quick links to my most visited and edited projects:
 | [win-get_intall](https://github.com/nikas17mc/win-get_install_script) | ![Static Badge](https://img.shields.io/badge/Version-Alpa_0.0.3-green) |
 | [My First Website](https://github.com/nikas17mc/nikas17mc.github.io) | ![Static Badge](https://img.shields.io/badge/Version-Alpa_0.0.2.2-blue) |
 | [rnB_msP](https://github.com/nikas17mc/rnB_msP) | ![Static Badge](https://img.shields.io/badge/Version-Beta_0.1-orange) |
-| [My New Website](https://github.com/nikas17mc/aniBuu) | ![Static Badge](https://img.shields.io/badge/Version-Beta_0.1-lila) |
+| [My New Website](https://github.com/nikas17mc/aniBuu) | ![Static Badge](https://img.shields.io/badge/Version-Alpa_0.0.5-663399) |
 
 ## Social Media
 
-You can find me on these social media:
+<div align="right">
+  <img align="right" height="150" src="https://i.imgflip.com/7onfrb.jpg"  />
+  <img align="right" height="150" src="https://i.imgflip.com/6zr6q4.gif"  />
+</div>
 
-Just kidding, you can't find me anywhere! I'm invisible. HEHEHE...!!
+>[!NOTE]
+> You can find me on these social media:
 
-## GitHub Snake
+> Just kidding, you can't find me anywhere! I'm invisible. HEHEHE...!! <br> I am hacker bubibabubo..
+
+<br>
 
 <img src="https://raw.githubusercontent.com/nikas17mc/nikas17mc/output/github-snake.svg" alt="github-snake"/>
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-For support, please create an issue in the repository.
