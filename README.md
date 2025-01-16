@@ -22,8 +22,6 @@ This README serves as an introduction to my profile, showcasing my skills, techn
 
 ## Introduction
 
-I would like to introduce myself to you:
-
 - I am a beginner in JS, PHP, Python and Bash.
 - I'm also going to an information technology vocational college, where I'm learning about new types and uses of programming and building.
 
