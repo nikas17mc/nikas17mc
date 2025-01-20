@@ -9,34 +9,49 @@ This README serves as an introduction to my profile, showcasing my skills, techn
 
 ## Technologies
 
-<div align="left">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/css/663399" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/php/777BB4" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/express/8A8A8A" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/pug/A86454" />
+<div align="center" >
+  <img height="40" width="70" src="https://cdn.simpleicons.org/html5/E34F26" />
+  <img height="40" width="70" src="https://cdn.simpleicons.org/css/663399" />
+  <img height="40" width="70" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+  <img height="40" width="70" src="https://cdn.simpleicons.org/php/777BB4" />
+  <img height="40" width="70" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" />
+  <img height="40" width="70" src="https://cdn.simpleicons.org/express/8A8A8A" />
+  <img height="40" width="70" src="https://cdn.simpleicons.org/pug/A86454" />
 </div>
 
 
 ## Introduction
 
-- I am a beginner in JS, PHP, Python and Bash.
+- I am a beginner in JS, PHP, and Bash.
+- I am also try to work with JS open-source runtime environment - NodeJS.
+- For my education I use modules:
+  - Express
+  - Pug (Jade)
 - I'm also going to an information technology vocational college, where I'm learning about new types and uses of programming and building.
+- Some of my free time I use for my hobby's and one of it is programming and debugging (HEhe... Debugging..)
 
 ### Things I can already do:
 
 ```php
+// PHP
 <?php echo "Hello World"; ?>
 ```
 
 ```bash
+# Bash
 echo 'Hello World'
 ```
 
 ```javascript
+// JS
 console.log("Hello World");
+```
+
+```pug
+// PUG
+- var string = "Hello World"
+each char in string
+    p= char
 ```
 
 <sub>I know this is a joke...</sub>
