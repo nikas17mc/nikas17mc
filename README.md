@@ -14,9 +14,11 @@ This README serves as an introduction to my profile, showcasing my skills, techn
   <img height="40" width="70" src="https://cdn.simpleicons.org/css/663399" />
   <img height="40" width="70" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
   <img height="40" width="70" src="https://cdn.simpleicons.org/php/777BB4" />
+  <img height="40" width="70" src="https://cdn.simpleicons.org/mysql/4479A1" />
   <img height="40" width="70" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" />
   <img height="40" width="70" src="https://cdn.simpleicons.org/express/8A8A8A" />
   <img height="40" width="70" src="https://cdn.simpleicons.org/pug/A86454" />
+  <img height="40" width="70" src="https://cdn.simpleicons.org/gnubash/4EAA25" />
 </div>
 
 
@@ -32,19 +34,27 @@ This README serves as an introduction to my profile, showcasing my skills, techn
 
 ### Things I can already do:
 
+```javascript
+// JS
+console.log("Hello World");
+```
+
 ```php
 // PHP
 <?php echo "Hello World"; ?>
 ```
 
-```bash
-# Bash
-echo 'Hello World'
-```
-
-```javascript
-// JS
-console.log("Hello World");
+```mysql
+CREATE DATABASE Data;
+CREATE TABLE base (
+    id INT NOT NULL,
+    first_word VARCHAR(5),
+    last_word VARCHAR(5),
+    PRIMARY KEY (id)
+);
+INSERT INTO base (id, first_word, last_word) VALUES (
+    1, "Hello", "World"
+);
 ```
 
 ```pug
@@ -52,6 +62,11 @@ console.log("Hello World");
 - var string = "Hello World"
 each char in string
     p= char
+```
+
+```bash
+# Bash
+echo 'Hello World'
 ```
 
 <sub>I know this is a joke...</sub>
@@ -70,8 +85,8 @@ Here are the quick links to my most visited and edited projects:
 ## Social Media
 
 <div align="right">
-  <img align="right" height="150" src="https://i.imgflip.com/7onfrb.jpg"  />
-  <img align="right" height="150" src="https://i.imgflip.com/6zr6q4.gif"  />
+  <img align="right" height="150" src="https://i.imgflip.com/7onfrb.jpg" />
+  <img align="right" height="150" src="https://i.imgflip.com/6zr6q4.gif" />
 </div>
 
 >[!NOTE]
@@ -81,4 +96,8 @@ Here are the quick links to my most visited and edited projects:
 
 <br>
 
-<img src="https://raw.githubusercontent.com/nikas17mc/nikas17mc/output/github-snake.svg" alt="github-snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikas17mc/nikas17mc/snake-output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikas17mc/nikas17mc/snake-output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nikas17mc/nikas17mc/snake-output/github-snake.svg" />
+</picture>
