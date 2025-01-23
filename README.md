@@ -3,8 +3,8 @@
 This README serves as an introduction to my profile, showcasing my skills, technologies I work with, and links to my projects.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikas17mc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=de&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikas17mc&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikas17mc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikas17mc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
 ## Technologies
