@@ -1,103 +1,133 @@
-# Hi 👋! My name is ニコライ and I'm a Junior Web-Developer! ✨
+<!-- README.md -->
 
-This README serves as an introduction to my profile, showcasing my skills, technologies I work with, and links to my projects.
+<h1 align="center">Hey there, I’m ニコライ 👋</h1>
+<h3 align="center">Curious mind | Code tinkerer | Digital astronaut</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=130&lines=%F0%9F%9A%80+Crafting+interactive+web+experiences;%F0%9F%8E%AE+Debugging+is+my+superpower;%F0%9F%8C%90+Three.js+fanboy;%F0%9F%8D%9C+Fueled+by+coffee+and+curiosity" alt="Typing SVG" />
+</p>
+
+---
+
+## 📊 Stats, because… why not?
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikas17mc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikas17mc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikas17mc&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikas17mc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
-## Technologies
+---
 
-<div align="center" >
-  <img height="40" width="70" src="https://cdn.simpleicons.org/html5/E34F26" />
-  <img height="40" width="70" src="https://cdn.simpleicons.org/css/663399" />
-  <img height="40" width="70" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
-  <img height="40" width="70" src="https://cdn.simpleicons.org/php/777BB4" />
-  <img height="40" width="70" src="https://cdn.simpleicons.org/mysql/4479A1" />
-  <img height="40" width="70" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" />
-  <img height="40" width="70" src="https://cdn.simpleicons.org/express/8A8A8A" />
-  <img height="40" width="70" src="https://cdn.simpleicons.org/pug/A86454" />
-  <img height="40" width="70" src="https://cdn.simpleicons.org/gnubash/4EAA25" />
-</div>
+## 🧰 Toolbox of a Digital Tinkerer
 
+| Languages | Frameworks | IDEs | Tools | OS |
+|----------|------------|------|-------|----|
+| <img src="https://skillicons.dev/icons?i=html,css,js,php,py,java" title="HTML, CSS, JavaScript, PHP, Python, Java"/> | <img src="https://skillicons.dev/icons?i=threejs,nodejs,express,pug" title="ThreeJS, Node.js, Express, Pug"/> | <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/> | <img src="https://skillicons.dev/icons?i=git,github,cloudflare,postman" title="Git, GitHub, Cloudflare, Postman"/> | <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,raspberrypi" title="Windows, Linux, Ubuntu, Kali, RaspberryPi"/> |
 
-## Introduction
+<sub>I also whisper to MySQL and Bash in the dark, when no one's watching…</sub><br>
+<sub>📝 Next up: TypeScript & React — because static typing is good and components are the future.</sub>
 
-- I am a beginner in JS, PHP, and Bash.
-- I am also try to work with JS open-source runtime environment - NodeJS.
-- For my education I use modules:
-  - Express
-  - Pug (Jade)
-- I'm also going to an information technology vocational college, where I'm learning about new types and uses of programming and building.
-- Some of my free time I use for my hobby's and one of it is programming and debugging (HEhe... Debugging.. Who likes it.)
+---
 
-### Things I can already do:
+## 🧠 About Me
 
-```javascript
-// JS
+- 🌱 Currently sharpening my skills in JS, PHP, and Bash
+- 🧪 Experimenting with Node.js, Express, and Pug for full-stack wizardry
+- 🎓 Studying IT at vocational college (yes, I touch grass sometimes)
+- 👨‍💻 Passionate about creating things that run in your browser and occasionally crash in style
+- 🐞 Debugging isn’t a chore, it’s my therapy
+
+---
+
+## 💻 Code I vibe with
+
+```js
+// Classic warm-up ritual
 console.log("Hello World");
 ```
 
 ```php
-// PHP
 <?php echo "Hello World"; ?>
 ```
 
-```mysql
-CREATE DATABASE Data;
-CREATE TABLE base (
-    id INT NOT NULL,
-    first_word VARCHAR(5),
-    last_word VARCHAR(5),
-    PRIMARY KEY (id)
-);
-INSERT INTO base (id, first_word, last_word) VALUES (
-    1, "Hello", "World"
-);
-```
-
-```pug
-// PUG
-- var string = "Hello World"
-each char in string
-    p= char
-```
-
 ```bash
-# Bash
 echo 'Hello World'
 ```
 
-<sub>I know this is a joke...</sub>
+```pug
+- var string = "Hello World"
+each char in string
+  p= char
+```
 
-## Projects
+```sql
+CREATE TABLE base (
+  id INT PRIMARY KEY,
+  first_word VARCHAR(5),
+  last_word VARCHAR(5)
+);
+INSERT INTO base VALUES (1, 'Hello', 'World');
+```
 
-Here are the quick links to my most visited and edited projects:
+> Yes. I know. Masterpieces. 🧠💥
 
-| Repository | Version |
-| ---------- | :-----: |
-| [win-get_intall](https://github.com/nikas17mc/win-get_install_script) | ![Static Badge](https://img.shields.io/badge/Version-Alpa_0.0.3-green) |
-| [My First Website](https://github.com/nikas17mc/nikas17mc.github.io) | ![Static Badge](https://img.shields.io/badge/Version-Alpa_0.0.2.2-blue) |
-| [rnB_msP](https://github.com/nikas17mc/rnB_msP) | ![Static Badge](https://img.shields.io/badge/Version-Beta_0.1-orange) |
-| [My New Website](https://github.com/nikas17mc/aniBuu) | ![Static Badge](https://img.shields.io/badge/Version-Alpa_0.0.5-663399) |
+---
 
-## Social Media
+## 🚧 Projects (and experiments that survived)
 
-<div align="right">
-  <img align="right" height="150" src="https://i.imgflip.com/7onfrb.jpg" />
-  <img align="right" height="150" src="https://i.imgflip.com/6zr6q4.gif" />
+<div align="center">
+
+| 🚀 Project | 🌡️ Version | 🔄 Status |
+|------------|------------|------------|
+| [J2H](https://github.com/nikas17mc/j2h) | ![Alpha](https://img.shields.io/badge/Version-Alpha_0.0.1-00AF2B) | 🆕 New |
+| [AniBuu](https://github.com/nikas17mc/aniBuu) | ![Alpha](https://img.shields.io/badge/Version-Alpha_0.0.5-663399) | 🛠️ Active |
+| [rnB_msP](https://github.com/nikas17mc/rnB_msP) | ![Beta](https://img.shields.io/badge/Version-Beta_0.1-orange) | 📦 Archived |
+| [WinGet Install Script](https://github.com/nikas17mc/win-get_install_script) | ![Alpha](https://img.shields.io/badge/Version-Alpha_0.0.3-green) | 👨‍💻📦 Under Question / Archived |
+| [My Old Website from 2020](https://github.com/nikas17mc/nikas17mc.github.io) | ![Alpha](https://img.shields.io/badge/Version-Alpha_0.0.1.1-blue) | 📦 Archived |
+
 </div>
 
->[!NOTE]
-> You can find me on these social media:
+<sub>More in the lab. Some explode. Some evolve.</sub>
 
-> Just kidding, you can't find me anywhere! I'm invisible. HEHEHE...!! <br> I am hacker bubibabubo..
+---
 
-<br>
+## 🌐 Socials?
 
+<div align="center">
+  <a href="https://codeberg.org/n3koNinja" target="_blank">
+    <img src="https://img.shields.io/badge/Codeberg-Sometimes-blue?logo=codeberg&logoColor=white" height="30"/>
+  </a><br>
+  <a href="https://instagram.com/deijingx" target="_blank">
+    <img src="https://img.shields.io/badge/Insta-Idk-grey?logo=instagram&logoColor=white" height="30"/>
+  </a>
+</div>
+
+<div align="right">
+  <img src="https://i.imgflip.com/7onfrb.jpg" height="150" />
+  <img src="https://i.imgflip.com/6zr6q4.gif" height="150" />
+</div>
+
+> Sozials? Yeah, kinda… maybe.
+>
+> But let’s be real:
+>
+> **You want my socials?**  
+> Nah. I’m a ghost in the shell. 🧞🚨  
+> Hacker name: `bubibabubo`  
+> Status: online but elusive.
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikas17mc/nikas17mc/snake-output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikas17mc/nikas17mc/snake-output/github-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nikas17mc/nikas17mc/snake-output/github-snake.svg" />
 </picture>
+</div>
+
+---
+
+<sub>Yes, this README updates as I evolve. So stay tuned… or don’t. I’ll keep coding anyway.</sub>
